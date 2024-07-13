@@ -1,0 +1,166 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of upholstery cleaning services do you provide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide top-notch upholstery cleaning near you."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of furniture do you clean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chairs, ottomans, and even fabric-covered tables - nothing is beyond the capabilities of our skilled upholstery steam cleaner team."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of cleaning methods do you use for couches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our experienced sofa cleaner team uses the best equipment and techniques, ensuring that your couch is not only clean but also maintains its quality and color."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer a steam cleaning service for couches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our steam cleaner for couch service is a game-changer. We use high-tech steam cleaning upholstery methods to remove dirt, stains, and allergens."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you clean leather upholstery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our professional couch cleaning team knows how to effectively use a leather stain remover and leather couch cleaner spray to ensure your furniture is clean and retains its lustrous finish."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide a dry cleaning option for upholstery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer dry upholstery cleaner options for furniture pieces that may be sensitive to moisture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide cleaning services near me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our professional cleaners are always ready to provide exceptional service right at your doorstep."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I choose your services for my upholstery cleaning needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With our commitment to excellence, advanced equipment, and skilled team, we ensure that your upholstery looks and feels great."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer sofa steam cleaner services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you're looking for a sofa steam cleaner service, we're here to help."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of stains can you remove from my couch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our team handles everything from routine cleans to removing stains from your couch, giving it a fresh look and extending its life."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide upholstery cleaning near me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, our professional cleaners provide upholstery cleaning services in all locations in NYC. We serve all 5 boroughs!."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of couch cleaning service do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our couch cleaning service is comprehensive. We offer everything from routine cleans using a fabric cleaner for your couch, to stain removal and leather couch cleaning. Our methods are thorough yet gentle on your furniture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you only clean sofas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, we offer a broader range of furniture cleaning services. Our skilled upholstery steam cleaner team is capable of cleaning chairs, ottomans, fabric-covered tables, and more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is your steam cleaner for couch service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our steam cleaner for couch service uses high-tech steam cleaning upholstery methods. These methods effectively remove dirt, stains, and allergens without damaging your furniture or leaving any residue."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you clean leather upholstery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For leather upholstery, we use a unique approach that includes an effective leather stain remover and leather couch cleaner spray. This ensures that your furniture is clean and maintains its lustrous finish."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer dry upholstery cleaning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer dry upholstery cleaner options for furniture pieces that may be sensitive to moisture. We take all necessary precautions to avoid damage during the cleaning process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tools do you use for deep cleaning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our team uses advanced tools such as couch steamers and upholstery vacuums. These tools allow us to provide deep cleaning services without causing damage to your furniture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I choose your upholstery cleaning services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We are committed to providing top-notch cleaning services with our advanced equipment and skilled team. We ensure that your upholstery looks and feels great, maintaining its quality and color."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you clean my fabric sofa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely! Whether you need a fabric sofa cleaner or a leather sofa cleaner, we've got you covered. We adapt our cleaning methods based on the type of upholstery material."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps do you take for removing stains from a couch?",
+      "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our professional couch cleaning process begins with identifying the type of stain and fabric. We then use specific cleaning solutions and techniques, such as couch steam cleaning or applying a couch cleaner spray, that are designed to effectively remove the stains without causing any harm to the couch fabric."
+      }
+    }
+  ]
+}

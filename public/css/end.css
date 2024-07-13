@@ -1,0 +1,23 @@
+.position-sticky {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+}
+header {
+    width: 100%;
+    background: #0e5db9;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+@media (min-width: 576px) {
+    .d-sm-block {
+        display: block !important;
+    }
+
+
+.how-it-works .bg-box {
+    background-image: url(../images/banners/how-it-works-box.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0 1.75rem 1.85rem 1.75rem;
+}

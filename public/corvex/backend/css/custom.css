@@ -1,0 +1,22 @@
+.tox-tinymce-aux{
+  display:none;
+}
+.repeater-group{display:-ms-flexbox;display:flex; border-bottom: 1px solid #e3e3e3; margin-bottom: 15px;align-items: center}
+.repeater-group .repeater-form_inputs{-ms-flex-preferred-size:95%;flex-basis:95%;margin-right:10px}.repeater-group .repeater-form_inputs div{display:-ms-flexbox;display:flex}
+.gallery-form-group .repeater-group:last-child,
+.review-form-group .repeater-group:last-child{
+  border-bottom: none;
+}
+.review-form-group{
+  padding-top:15px;
+}
+ .repeater-group input::placeholder,
+ .repeater-group textarea::placeholder{
+  color: #ccc;
+}
+.add-btn {
+  line-height: 10px;
+  top: 0;
+  right: 0;
+  padding: 8px 7px;
+}
